@@ -40,5 +40,6 @@ public class SingletoneMain {
         System.out.println("Gender is: " + z.gender);
         System.out.println("The z object memory location is " + z.hashCode());
 
+
     }
 }
